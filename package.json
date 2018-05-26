@@ -1,0 +1,31 @@
+{
+  "name": "replacer",
+  "version": "1.0.0",
+  "description": "A simple library to replace characters in a string easily",
+  "main": "replacer.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanBobNinja/replacer.git"
+  },
+  "keywords": [
+    "replace",
+    "characters",
+    "easily",
+    "change",
+    "multiple"
+  ],
+  "author": "JeanBobNinja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeanBobNinja/replacer/issues"
+  },
+  "homepage": "https://github.com/JeanBobNinja/replacer#readme"
+}
